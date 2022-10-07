@@ -18,7 +18,7 @@ const Footer = () => (
           <h5 className="text-uppercase">Smart Aid</h5>
           <ul className="list-unstyled">
             <li>
-              <a href="#!">Link 1</a>
+              <a href="#!">Home</a>
             </li>
             <li>
               <a href="#!">Link 2</a>
